@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Aminul Islam Shamim
 
 ### 💻 Full-Stack Web Developer | JavaScript Enthusiast | 🔐 Web Security Learner
@@ -94,17 +93,15 @@ I'm currently learning **Web Security and Ethical Hacking** alongside web develo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamim-Islam&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight)
+![GitHub Stats](./profile/stats.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shamim-Islam&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamim-Islam&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Real GitHub Contributions
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shamim-Islam&theme=tokyo-night&hide_border=true)
+![GitHub Contributions](./profile/contributions.svg)
 
 ---
 
@@ -120,7 +117,7 @@ I'm currently learning **Web Security and Ethical Hacking** alongside web develo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamim-islam-cyb3r1d10t5)
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shamim.islam.834465/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_PROFILE_URL)
 
 ---
 

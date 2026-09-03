@@ -1,0 +1,31 @@
+name: Update Real GitHub Contributions
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate contribution statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: profile/contributions.svg
+          include-title: true
+          custom-title: "My GitHub Contributions"
+          colors: dark
+          hide-keys: general,repositories,languages
+          category-order: contributions
+          fail-on-error: true
+          commit-and-push: true
+          commit-message: "chore: update GitHub contribution statistics"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

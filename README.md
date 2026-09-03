@@ -48,19 +48,54 @@ I believe that a good developer should not only know how to build applications, 
 
 ## 🔐 Web Security & Ethical Hacking
 
-I'm currently learning **Web Security and Ethical Hacking** alongside web development.
+I'm currently learning **Web Application Security, Penetration Testing, and Bug Hunting** alongside full-stack development.
 
-### 📚 Currently Exploring
+### 🛡️ Security Skills
 
 - 🌐 Web Application Security
-- 🛡️ OWASP Top 10
 - 🔎 Web Penetration Testing
-- 🔐 Authentication & Authorization Security
-- 🧪 Vulnerability Research
-- 🐞 Bug Hunting
-- 🐧 Linux
-- 🌐 Networking
-- 🔍 Common Web Vulnerabilities
+- 🧪 Vulnerability Assessment
+- 🐞 Bug Bounty Methodology
+- 🔐 Authentication & Authorization
+- 💉 SQL Injection (SQLi)
+- 🌐 Cross-Site Scripting (XSS)
+- 🔗 Cross-Site Request Forgery (CSRF)
+- 🛡️ Broken Access Control / IDOR
+- 📤 File Upload Vulnerabilities
+- ⚙️ Server-Side Request Forgery (SSRF)
+- 💻 Command Injection
+- 🔄 HTTP Request/Response Analysis
+- 🍪 Cookies & Session Security
+- 🔑 JWT Security
+- 🧩 API Security
+- 📡 Networking Fundamentals
+- 🐧 Linux Fundamentals
+- 📋 OWASP Top 10
+
+### 🧰 Security Tools
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-111111?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-111111?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-111111?style=for-the-badge)
+
+### 🔬 Security Areas I'm Exploring
+
+- Web Application Penetration Testing
+- API Security Testing
+- Reconnaissance & Enumeration
+- Vulnerability Discovery
+- Authentication & Session Testing
+- Access Control Testing
+- Security Misconfiguration
+- Client-Side & Server-Side Vulnerabilities
+- Bug Bounty Hunting
+- Secure Coding Practices
 
 > My goal is to become a developer who understands not only **how to build web applications**, but also **how to identify and prevent security vulnerabilities**.
 

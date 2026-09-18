@@ -104,10 +104,12 @@ I'm currently learning **Web Application Security, Penetration Testing, and Bug 
 ## 📚 Currently Learning
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - 🟦 TypeScript
+- ▲ Next.js
 - 🐳 Docker
 - 🐧 Linux
 - 🔐 Web Security & Penetration Testing
